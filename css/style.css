@@ -24,3 +24,9 @@ padding-bottom: 5rem;
     color: white;
     text-align: center;
 }
+.jumbotron{
+    background-image: url('https://mdbootstrap.com/img/new/slides/041.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
